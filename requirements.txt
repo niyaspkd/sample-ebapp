@@ -17,7 +17,7 @@ django-phone-verify==1.0.0
 django-phonenumber-field==3.0.1
 django-rest-auth==0.9.5
 django-rest-swagger==2.2.0
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 drf-accountkit==0.2.3
 drf-autodocs==0.4.4
